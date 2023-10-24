@@ -5,7 +5,7 @@ second = 56.78  # float
 text = "hellow there"  # string
 ispythoninteresting = "true"  # b00l
 
-# data type storering multiple values in a variable
+# data type storering multiple values in a single variable
 cars = ["toyota","nissan","vw"]  # list
 fruits = ("banana","apples","oranges")  # tuple
 countries = {"kenya","uganda","algeria","tunisia"}  # set
